@@ -2,22 +2,22 @@
   "fruits":[
 {
   "id": 1,
-  "title": "wisnia",
+  "name": "wisnia",
   "price":1
 },
 {
   "id": 2,
-  "title": "truskawka",
+  "name": "truskawka",
   "price":3.5
 },
 {
   "id": 3,
-  "title": "jagoda",
+  "name": "jagoda",
   "price":10.5
 },
 {
   "id": 4,
-  "title": "malina",
+  "name": "malina",
   "price":4.5
 }
   ]
