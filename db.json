@@ -1,20 +1,24 @@
 {
+  "fruits":[
+{
   "id": 1,
   "title": "wisnia",
   "price":1
-}
+},
 {
   "id": 2,
   "title": "truskawka",
   "price":3.5
-}
+},
 {
   "id": 3,
   "title": "jagoda",
   "price":10.5
-}
+},
 {
   "id": 4,
   "title": "malina",
   "price":4.5
+}
+  ]
 }
