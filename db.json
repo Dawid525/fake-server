@@ -6,6 +6,27 @@
 	{"id": 3,"name": "jagoda","price":10.5},
 	{"id": 4,"name": "malina","price":4.5}
 	]
+    },
+	{ "date":"02/05/2022","fruits":[
+        {"id":1,"name": "wisnia","price":1},
+        {"id": 2,"name": "truskawka","price":13.5},
+	{"id": 3,"name": "jagoda","price":10.5},
+	{"id": 4,"name": "malina","price":4.5}
+	]
+    },
+	  { "date":"03/05/2022","fruits":[
+        {"id":1,"name": "wisnia","price":1},
+        {"id": 2,"name": "truskawka","price":13.5},
+	{"id": 3,"name": "jagoda","price":10.5},
+	{"id": 4,"name": "malina","price":4.5}
+	]
+    },
+	  { "date":"04/05/2022","fruits":[
+        {"id":1,"name": "wisnia","price":1},
+        {"id": 2,"name": "truskawka","price":13.5},
+	{"id": 3,"name": "jagoda","price":10.5},
+	{"id": 4,"name": "malina","price":4.5}
+	]
     }
   ]
 }
